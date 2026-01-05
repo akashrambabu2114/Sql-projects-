@@ -1,5 +1,2 @@
 # Sql-projects
-PROJECT NAME /n
-Analyzing International Debt Statistics /n
-DESCRIPTION /n
-Wrote Sql queries to find answers to interesting questions from the international debt data from the world bank 
+This project involves analyzing international debt data collected by the World Bank. The goal was to write complex SQL queries to extract meaningful insights
